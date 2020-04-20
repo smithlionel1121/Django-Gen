@@ -1,0 +1,80 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+header, footer {
+    color: blue;
+    text-align: center;
+    background-color: chartreuse;
+}
+
+/* .tall {
+    height: 300px;
+} */
+
+
+#hidden {
+    color: red;
+}
+
+.try {
+    color:palegreen;    
+}
+
+.camo {
+    color: white;
+
+}
+
+.runpy {
+    color: aqua;
+}
+
+#created {
+    color: brown;
+    
+    background-color: dimgray;
+}
+
+#maker {
+    background-color: bisque;
+}
+
+#made {
+    background-color: beige;
+}
+
+
+.block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: grey;
+    padding: 14px 28px;
+    font-size: 60px;
+    cursor: pointer;
+    text-align: center;
+}
+
+
+.blocktr {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: blue;
+    padding: 14px 28px;
+    font-size: 50px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.blockdb {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: red;
+    padding: 14px 0px;
+    font-size: 55px;
+    cursor: pointer;
+    text-align: center;
+}
